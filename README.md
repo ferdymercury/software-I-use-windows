@@ -1,5 +1,5 @@
 # software-I-use-windows
-A database with some of the software I use.
+A list with some of the software I use.
 
 ## Utilities
 - [Revo Uninstaller](http://www.revouninstaller.com/)
