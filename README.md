@@ -98,4 +98,4 @@ A database with all the software I use.
 - [Curse](https://www.curse.com/)
 
 ## Gaming
--[Steam](http://store.steampowered.com/)
+- [Steam](http://store.steampowered.com/)
