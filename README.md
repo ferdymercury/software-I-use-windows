@@ -4,6 +4,7 @@ A list with some of the software I use.
 ## Utilities
 - [Revo Uninstaller](http://www.revouninstaller.com/)
 - [WinRAR](http://www.rarlab.com/)
+- [7-Zip](http://www.7-zip.org/)
 - [Total Commander](https://www.ghisler.com/)
 - [CCleaner](https://www.piriform.com/ccleaner/)
 - [Defraggler](https://www.piriform.com/defraggler/)
@@ -17,6 +18,7 @@ A list with some of the software I use.
 - [EaseUS Partition Master](http://www.partition-tool.com/)
 - [DAEMON Tools Lite](https://www.daemon-tools.cc/products/dtLite/)
 - [TeamViewer](https://www.teamviewer.com/)
+- [Bloody6](http://www.bloody.com/)
 
 ## Multimedia
 - [BSPlayer](http://bsplayer.com/)
@@ -66,6 +68,11 @@ A list with some of the software I use.
 - [HeidiSQL](http://www.heidisql.com/)
 - [ConEmu](https://conemu.github.io/)
 - [Zeal](https://zealdocs.org/)
+- [Git](https://git-scm.com/)
+- [SourceTree](https://www.sourcetreeapp.com/)
+- [Tiled](http://www.mapeditor.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Python](https://www.python.org/)
 
 ## Virtual Machines
 - [Oracle VM VirtualBox]()
@@ -84,6 +91,7 @@ A list with some of the software I use.
 - [DC++](http://dcplusplus.sourceforge.net/)
 - [Free Download Manager](http://www.freedownloadmanager.org/)
 - [MEGAsync](https://mega.nz/#sync)
+- [LogMeIn Hamachi](https://www.vpn.net/)
 
 ## Internet Browsing
 - [Google Chrome](https://www.google.com/chrome/)
