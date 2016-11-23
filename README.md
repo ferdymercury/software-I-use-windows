@@ -65,6 +65,7 @@ A list with some of the software I use.
 - [Vagrant](https://www.vagrantup.com/)
 - [HeidiSQL](http://www.heidisql.com/)
 - [ConEmu](https://conemu.github.io/)
+- [Zeal](https://zealdocs.org/)
 
 ## Virtual Machines
 - [Oracle VM VirtualBox]()
