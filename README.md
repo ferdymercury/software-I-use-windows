@@ -24,6 +24,8 @@ A list with some of the software I use.
 - [BSPlayer](http://bsplayer.com/)
 - [VLC media player](http://www.videolan.org/vlc/index.html)
 - [livestreamer-twich-gui](https://github.com/bastimeyer/livestreamer-twitch-gui/)
+- [KOPLAYER](http://www.koplayer.com/)
+- [BlueStacks](http://www.bluestacks.com/)
 
 ## Multimedia Editing Tools
 - [HandBreak](https://handbrake.fr/)
