@@ -1,5 +1,5 @@
 # software-I-use-windows
-A list with some of the software I use.
+A list with some of the software I use on Windows OS.
 
 ## Utilities
 - [Revo Uninstaller](http://www.revouninstaller.com/)
@@ -19,21 +19,29 @@ A list with some of the software I use.
 - [DAEMON Tools Lite](https://www.daemon-tools.cc/products/dtLite/)
 - [TeamViewer](https://www.teamviewer.com/)
 - [Bloody6](http://www.bloody.com/)
+- [Chocolatey](https://chocolatey.org/)
+- [BlueStacks](http://www.bluestacks.com/)
+- [CDBurnerXP](https://cdburnerxp.se/en/home)
+- [Cheat Engine](http://www.cheatengine.org/)
+- [ImgBurn](http://www.imgburn.com/)
+- [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm)
+- [Smart Defrag](http://www.iobit.com/en/iobitsmartdefrag.php)
 
 ## Multimedia
-- [BSPlayer](http://bsplayer.com/)
+- [BS.Player](http://bsplayer.com/)
 - [VLC media player](http://www.videolan.org/vlc/index.html)
 - [livestreamer-twich-gui](https://github.com/bastimeyer/livestreamer-twitch-gui/)
 - [KOPLAYER](http://www.koplayer.com/)
 - [BlueStacks](http://www.bluestacks.com/)
 
 ## Multimedia Editing Tools
-- [HandBreak](https://handbrake.fr/)
+- [HandBrake](https://handbrake.fr/)
 - [Freemake Video Downloader](http://www.freemake.com/free_video_downloader/)
 - [Paint.NET](http://www.getpaint.net/index.html)
 - [GIMP](https://www.gimp.org/)
 - [Inkscape](https://www.inkscape.org/)
 - [Blender](https://www.blender.org/)
+- [Livestreamer](http://docs.livestreamer.io/)
 
 ## Recording Sofwares
 - [Open Broadcaster Sofware](https://www.obsproject.com/)
@@ -50,6 +58,7 @@ A list with some of the software I use.
 - [Brackets](http://brackets.io/)
 - [Atom](https://atom.io/)
 - [Visual Studio Code](http://code.visualstudio.com/)
+- [LibreOffice](https://www.libreoffice.org/)
 
 ## Development Tools
 - [Prepros](https://prepros.io/)
@@ -75,6 +84,10 @@ A list with some of the software I use.
 - [Tiled](http://www.mapeditor.org/)
 - [Node.js](https://nodejs.org/en/)
 - [Python](https://www.python.org/)
+- [KDevelop](https://www.kdevelop.org/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [SourceTree](https://www.sourcetreeapp.com/)
+- [WinSCP](https://winscp.net/eng/download.php)
 
 ## Virtual Machines
 - [Oracle VM VirtualBox]()
@@ -94,6 +107,8 @@ A list with some of the software I use.
 - [Free Download Manager](http://www.freedownloadmanager.org/)
 - [MEGAsync](https://mega.nz/#sync)
 - [LogMeIn Hamachi](https://www.vpn.net/)
+- [mHotspot](http://www.mhotspot.com/)
+- [Tunngle](https://www.tunngle.net/en/)
 
 ## Internet Browsing
 - [Google Chrome](https://www.google.com/chrome/)
@@ -102,6 +117,7 @@ A list with some of the software I use.
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 - [Vivaldi](https://www.vivaldi.com/)
 - [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
+- [Brave](https://brave.com/)
 
 ## Chatting
 - [Skype](https://www.skype.com/)
@@ -110,3 +126,5 @@ A list with some of the software I use.
 
 ## Gaming
 - [Steam](http://store.steampowered.com/)
+- [Origin](https://www.origin.com/irl/en-us/)
+- [Uplay](https://uplay.ubi.com/)
