@@ -48,6 +48,9 @@ A list with some of the software I use on Windows OS.
 
 ## Electronics
 - [Proteus](https://www.labcenter.com/)
+- [KiCad](http://kicad-pcb.org/)
+- [Fritzing](http://fritzing.org/home/)
+- [Logisim](http://www.cburch.com/logisim/index.html)
 
 ## Text Editing
 - [Free Opener](http://download.cnet.com/Free-Opener/3000-18488_4-75450719.html)
