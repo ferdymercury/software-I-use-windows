@@ -26,6 +26,7 @@ A list with some of the software I use on Windows OS.
 - [ImgBurn](http://www.imgburn.com/)
 - [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm)
 - [Smart Defrag](http://www.iobit.com/en/iobitsmartdefrag.php)
+- [AutoIt](https://www.autoitscript.com/site/autoit/)
 
 ## Multimedia
 - [BS.Player](http://bsplayer.com/)
