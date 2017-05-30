@@ -27,6 +27,7 @@ A list with some of the software I use on Windows OS.
 - [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm)
 - [Smart Defrag](http://www.iobit.com/en/iobitsmartdefrag.php)
 - [AutoIt](https://www.autoitscript.com/site/autoit/)
+- [AutoHotkey](https://autohotkey.com/)
 
 ## Multimedia
 - [BS.Player](http://bsplayer.com/)
