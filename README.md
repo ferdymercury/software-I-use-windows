@@ -94,6 +94,7 @@ A list with some of the software I use on Windows OS.
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [WinSCP](https://winscp.net/eng/download.php)
+- [Postman](https://www.getpostman.com/)
 
 ## Virtual Machines
 - [Oracle VM VirtualBox]()
