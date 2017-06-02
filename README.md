@@ -135,3 +135,4 @@ A list with some of the software I use on Windows OS.
 - [Steam](http://store.steampowered.com/)
 - [Origin](https://www.origin.com/irl/en-us/)
 - [Uplay](https://uplay.ubi.com/)
+- [Battle.net](http://eu.battle.net/en/)
