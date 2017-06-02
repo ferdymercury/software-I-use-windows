@@ -28,6 +28,7 @@ A list with some of the software I use on Windows OS.
 - [Smart Defrag](http://www.iobit.com/en/iobitsmartdefrag.php)
 - [AutoIt](https://www.autoitscript.com/site/autoit/)
 - [AutoHotkey](https://autohotkey.com/)
+- [Unified Remote](https://www.unifiedremote.com/)
 
 ## Multimedia
 - [BS.Player](http://bsplayer.com/)
