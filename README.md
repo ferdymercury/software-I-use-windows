@@ -37,6 +37,9 @@ A list with some of the software I use on Windows OS.
 - [livestreamer-twich-gui](https://github.com/bastimeyer/livestreamer-twitch-gui/)
 - [KOPLAYER](http://www.koplayer.com/)
 - [BlueStacks](http://www.bluestacks.com/)
+- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
+- [PC Equalizer](https://sourceforge.net/projects/pc-equalizer/)
+- [Zona](http://zona.ru/en/)
 
 ## Multimedia Editing Tools
 - [HandBrake](https://handbrake.fr/)
@@ -91,11 +94,18 @@ A list with some of the software I use on Windows OS.
 - [Tiled](http://www.mapeditor.org/)
 - [Node.js](https://nodejs.org/en/)
 - [Python](https://www.python.org/)
+- [Rust](https://www.rust-lang.org/en-US/index.html)
+- [Go](https://golang.org/)
 - [KDevelop](https://www.kdevelop.org/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [SourceTree](https://www.sourcetreeapp.com/)
 - [WinSCP](https://winscp.net/eng/download.php)
 - [Postman](https://www.getpostman.com/)
+- [Scoop](http://scoop.sh/)
+- [Chocolatey](https://chocolatey.org/)
+- [Vagrant Manager](http://vagrantmanager.com/windows/)
+- [Studio3t](https://studio3t.com/)
+- [Ninite](https://ninite.com/)
 
 ## Virtual Machines
 - [Oracle VM VirtualBox]()
