@@ -30,6 +30,8 @@ A list with some of the software I use on Windows OS.
 - [AutoHotkey](https://autohotkey.com/)
 - [Unified Remote](https://www.unifiedremote.com/)
 - [Directory Printer](https://karenware.com/powertools)
+- [Everything](https://www.voidtools.com/)
+- [Wox](http://www.wox.one/)
 
 ## Multimedia
 - [BS.Player](http://bsplayer.com/)
