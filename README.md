@@ -32,6 +32,9 @@ A list with some of the software I use on Windows OS.
 - [Directory Printer](https://karenware.com/powertools)
 - [Everything](https://www.voidtools.com/)
 - [Wox](http://www.wox.one/)
+- [Listary](http://www.listary.com/)
+- [Launchy](https://www.launchy.net/)
+- [Ninite](https://ninite.com/)
 
 ## Multimedia
 - [BS.Player](http://bsplayer.com/)
