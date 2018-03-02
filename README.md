@@ -83,7 +83,7 @@ A list with some of the software I use on Windows OS.
 - [Code::Blocks](http://www.codeblocks.org/)
 - [Visual Studio Comunity](https://www.visualstudio.com/vs/community/)
 - [Cygwin](https://www.cygwin.com/)
-- [msys2](http://www.msys2.org/)
+- [MSYS2](http://www.msys2.org/)
 - [MinGW](http://www.mingw.org/)
 - [GitHub Desktop](https://desktop.github.com/)
 - [pageant](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
