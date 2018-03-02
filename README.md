@@ -34,6 +34,7 @@ A list with some of the software I use on Windows OS.
 - [Wox](http://www.wox.one/)
 - [Listary](http://www.listary.com/)
 - [Launchy](https://www.launchy.net/)
+- [Find and Run Robot](http://www.donationcoder.com/software/mouser/popular-apps/farr)
 - [Ninite](https://ninite.com/)
 
 ## Multimedia
