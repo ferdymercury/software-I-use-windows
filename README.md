@@ -36,6 +36,8 @@ A list with some of the software I use on Windows OS.
 - [Launchy](https://www.launchy.net/)
 - [Find and Run Robot](http://www.donationcoder.com/software/mouser/popular-apps/farr)
 - [Ninite](https://ninite.com/)
+- [Sizer](http://www.brianapps.net/sizer/)
+- [SnapX](https://github.com/benallred/SnapX)
 
 ## Multimedia
 - [BS.Player](http://bsplayer.com/)
@@ -69,6 +71,7 @@ A list with some of the software I use on Windows OS.
 - [Free Opener](http://download.cnet.com/Free-Opener/3000-18488_4-75450719.html)
 - [Foxit Reader](https://www.foxitsoftware.com/products/pdf-reader/)
 - [Vim](http://www.vim.org/)
+- [Emacs](https://www.gnu.org/software/emacs/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Brackets](http://brackets.io/)
@@ -116,6 +119,7 @@ A list with some of the software I use on Windows OS.
 
 ## Virtual Machines
 - [Oracle VM VirtualBox]()
+- [Docker](https://www.docker.com/)
 
 ## Game Engines
 - [Unreal Engine](https://www.unrealengine.com/)
