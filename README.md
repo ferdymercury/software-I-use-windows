@@ -38,6 +38,11 @@ A list with some of the software I use on Windows OS.
 - [Ninite](https://ninite.com/)
 - [Sizer](http://www.brianapps.net/sizer/)
 - [SnapX](https://github.com/benallred/SnapX)
+- [AutoSizer](http://www.southbaypc.com/AutoSizer/)
+- [AltMove](http://www.deskex.com/Altmove/index.asp)
+- [ResizeEnable](http://www.digitallis.co.uk/pc/ResizeEnable/index.html)
+- [Mihov Active 800x600](https://www.mihov.com/sw/en/a8.php)
+- [SplashKiller](http://www.digitallis.co.uk/pc/SplashKiller/index.html)
 
 ## Multimedia
 - [BS.Player](http://bsplayer.com/)
