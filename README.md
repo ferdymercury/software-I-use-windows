@@ -121,6 +121,7 @@ A list with some of the software I use on Windows OS.
 - [Vagrant Manager](http://vagrantmanager.com/windows/)
 - [Studio3t](https://studio3t.com/)
 - [Ninite](https://ninite.com/)
+- [Hyper](https://hyper.is/)
 
 ## Virtual Machines
 - [Oracle VM VirtualBox]()
